@@ -101,7 +101,7 @@ Tasks are saved using **Java serialization** into `.todos` files chosen by the u
 ---
 
 ## 👨‍💻 Contributors
-- **You** (Project Author)  
+- **My classmates and I** (Project Author)  
 
 ---
 
